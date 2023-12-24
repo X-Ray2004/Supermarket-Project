@@ -1,7 +1,3 @@
-/*******************************************
- ** COPYRIGHT BY QURSAAN *******************
- ** github@qursaan.com   *******************
- *******************************************/
 #include <iostream>         // cin, cout
 #include <cstdlib>          // cls
 #include <windows.h>        // Sleep
